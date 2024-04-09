@@ -2,7 +2,7 @@
 ┌──C:\Users\Bobby> -[~/enterprise]
 └─$ main.py
 
-class bhop3:
+class bobby:
 
     def __bhop3__(self):
         self.hello = "👋"
