@@ -4,7 +4,7 @@
 
 class bobby:
 
-    def __bhop3__(self):
+    def __bobby__(self):
         self.hello = "👋"
         self.username = "Bobby"
         self.age = "?"
